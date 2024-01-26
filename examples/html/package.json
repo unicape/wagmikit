@@ -1,0 +1,14 @@
+{
+  "name": "@examples/html",
+  "private": true,
+  "scripts": {
+    "dev:example": "vite --port 3001",
+    "build:example": "vite build"
+  },
+  "dependencies": {
+    "wagmikit": "workspace:*"
+  },
+  "devDependencies": {
+    "vite": "^5.0.12"
+  }
+}
